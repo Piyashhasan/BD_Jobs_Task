@@ -1,0 +1,11 @@
+.no_of {
+  display: flex;
+  height: 12rem;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 8rem !important;
+}
+
+.no_of h5 {
+  font-size: 1.8rem;
+}

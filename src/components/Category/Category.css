@@ -1,0 +1,41 @@
+.category_container {
+  background-color: #eceff1;
+}
+
+.category_container .guideline {
+  max-width: 25.5rem;
+  height: 23.5rem;
+  background-color: #fff;
+  border-radius: 1rem;
+}
+.category_container .guideline h4 {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.category_container .guideline ul li a {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 3rem;
+  color: #757575;
+}
+.category_container .guideline ul li a span {
+  margin-left: 0.6rem;
+}
+
+/* category item card */
+.category_container .category_item_card .item_card{
+  width: 27rem;
+  height: 5.8rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 0 1rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.category_container .category_item_card .item_card p{
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.category_button .category_button_toggler{
+  border: none;
+}

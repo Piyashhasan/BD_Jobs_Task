@@ -1,0 +1,13 @@
+.footer ul{
+    margin-top: 3rem;
+}
+.footer ul li{
+    line-height: 3.5rem;
+}
+.footer ul li a{
+    font-size: 1.6rem;
+    color: gray;
+}
+.footer ul li a:hover{
+    color: #000;
+}

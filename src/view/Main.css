@@ -1,0 +1,14 @@
+/* font family */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
+
+.Main {
+  font-family: "Open Sans", sans-serif;
+}
+
+.country_job {
+  height: 36rem;
+  background-image: url("../assets/countrys-job-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

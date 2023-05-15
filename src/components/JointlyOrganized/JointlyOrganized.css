@@ -1,0 +1,22 @@
+.jointly_organized {
+  padding: 10rem 0;
+  background-color: #eceff1;
+  border-bottom: 1px solid #3f51b5;
+}
+.jointly_organized .videoFrame {
+  border-radius: 1rem;
+}
+
+.link {
+  width: 18rem;
+  height: 9rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+.link img {
+  padding: 1rem;
+}
+.link .bd_img {
+  padding: 2.6rem;
+}

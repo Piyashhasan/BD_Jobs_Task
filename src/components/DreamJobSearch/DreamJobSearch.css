@@ -1,0 +1,9 @@
+.dream_job_search h1{
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+.dream_job_search a,
+.dream_job_search span{
+    font-size: 1.6rem;
+    color: #fff;
+}

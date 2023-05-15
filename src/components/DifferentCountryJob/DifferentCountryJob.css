@@ -1,0 +1,28 @@
+.different_country_job {
+  height: 36rem;
+  background-color: rgba(0, 150, 136, 0.9);
+}
+.different_country_job  .country_card {
+  max-width: 90%;
+  background-color: #fff;
+  border-radius: 1rem;
+  position: relative;
+  margin: 10px 10px;
+  cursor: pointer;
+}
+.different_country_job .country_card h5 {
+  color: rgba(0, 150, 136, 0.9);
+}
+.different_country_job .country_name {
+  bottom: 0;
+  font-size: 1.8rem;
+  padding: 2rem 0;
+  background-color: #212121;
+  color: #fff;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+.slick-prev,
+.slick-next{
+  display: none !important;
+}

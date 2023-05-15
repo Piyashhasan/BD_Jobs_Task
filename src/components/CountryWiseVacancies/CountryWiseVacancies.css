@@ -1,0 +1,26 @@
+.Country_wise_vacancies h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+}
+.Country_wise_vacancies ul li {
+  margin: 1.5rem 0;
+  color: #e0eefd;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+.Country_wise_vacancies .btn_group button {
+  width: 18rem;
+  height: 6rem;
+}
+.Country_wise_vacancies .btn_group .btn-one {
+  background-color: #ffdc79;
+  font-size: 1.4rem;
+}
+.Country_wise_vacancies .btn_group .btn-one:hover {
+  background-color: #ffc72b;
+}
+.Country_wise_vacancies .btn_group .btn-two {
+  background-color: #fff;
+  color: #2e7fdb;
+  font-size: 1.3rem;
+}
